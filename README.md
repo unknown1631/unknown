@@ -1,2 +1,2 @@
-# Rein
-Verge\digibyte Mining
+# Unknown
+Bitcoin
