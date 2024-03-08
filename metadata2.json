@@ -2,6 +2,14 @@
   "name": "Dank Dollar",
   "symbol": "DUSD",
   "description": "Dank Dollar: where memes meet the Dollar",
-  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/dankdollar%201.1.png"
-  "extensions":{"website":"danoldtromp.xyz","telegram":"https://t.me/TV_CALLS"}
+  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/dankdollar%201.1.png",
+  "extensions": {
+    "website": "danoldtromp.xyz",
+    "telegram": "https://t.me/TV_CALLS"
+  },
+  "tags": [],
+  "creator": {
+    "name": "DEXLAB MINTING LAB",
+    "site": "https://www.dexlab.space"
+  }
 }
