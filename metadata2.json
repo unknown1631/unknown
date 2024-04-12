@@ -1,15 +1,12 @@
 {
-  "name": "testing",
-  "symbol": "TEST",
-  "description": "TEST",
-  "image": "no",
-  "extensions": {
-    "website": "TEST.com",
-    "telegram": "https://t.me/TEST"
-  },
-  "tags": [],
-  "creator": {
-    "name": "TEST INC",
-    "site": "TEST.com"
+    "name": "test ",
+    "symbol": "test",
+    "description": "testing",
+    "image": "https://github.com/unknown1631/unknown/blob/0a7c128d4b662e04bfad11f74d3b5bba148a678d/1bij1_pepe3-transformed-flipped.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
   }
-}
