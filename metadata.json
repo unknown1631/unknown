@@ -3,13 +3,22 @@
   "symbol": "DUSD",
   "description": "Dank Dollar: where memes meet the Dollar",
   "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/dankdollar%201.1.png",
-  "extensions": {
-    "website": "dankdollarcoin.com",
-    "telegram": "https://t.me/Dankdollarcoin"
-  },
-  "tags": [],
-  "creator": {
-    "name": "Federation of Memes INC.",
-    "site": "dankdollarcoin.com"
-  }
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "dankdollarcoin.com"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Dankdollarcoin"
+    },
+    {
+      "trait_type": "Creator Name",
+      "value": "Federation of Memes INC."
+    },
+    {
+      "trait_type": "Creator Site",
+      "value": "dankdollarcoin.com"
+    }
+  ]
 }
