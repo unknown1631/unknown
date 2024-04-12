@@ -1,12 +1,16 @@
 {
-    "name": "test ",
-    "symbol": "test",
-    "description": "testing",
-    "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/1bij1_pepe3-transformed-flipped.png",
-    "attributes": [
-      {
-        "trait_type": "Item",
-        "value": "Developer Portal"
-      }
-    ]
-  }
+  "name": "Dank Dollar",
+  "symbol": "DUSD",
+  "description": "Dank Dollar: where memes meet the Dollar",
+  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/dankdollar%201.1.png",
+  "attributes": [
+    {
+      "trait_type": "External Links",
+      "value": "Website: dankdollarcoin.com, Telegram: https://t.me/Dankdollarcoin"
+    },
+    {
+      "trait_type": "Creator",
+      "value": "Federation of Memes INC., Site: dankdollarcoin.com"
+    }
+  ]
+}
