@@ -1,21 +1,21 @@
 {
-  "name": "Dank Dollar",
-  "symbol": "DUSD",
-  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/logo-dankdollar.png",
-  "description": "Dank Dollar: where memes meet the Dollar",
+  "name": "TEST TEST",
+  "symbol": "TUST",
+  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/2263864_orig.jpg",
+  "description": "TST: TEST",
   "external_url": "dankdollarcoin.com",
   "attributes": [
     {
       "trait_type": "Website",
-      "value": "dankdollarcoin.com"
+      "value": "TEST.com"
     },
     {
       "trait_type": "Telegram",
-      "value": "https://t.me/Dankdollarcoin"
+      "value": "https://t.me/TEST"
     }
   ],
   "creator": {
-    "name": "Federation of Memes INC.",
+    "name": "Federation of test INC.",
     "address": "",
     "share": ""
   },
