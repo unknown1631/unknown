@@ -1,0 +1,23 @@
+{
+  "name": "Dank Dollar",
+  "symbol": "DUSD",
+  "image": "https://raw.githubusercontent.com/unknown1631/unknown/master/logo-dankdollar.png",
+  "description": "Dank Dollar: where memes meet the Dollar",
+  "external_url": "dankdollarcoin.com",
+  "attributes": [
+    {
+      "trait_type": "Website",
+      "value": "dankdollarcoin.com"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/Dankdollarcoin"
+    }
+  ],
+  "creator": {
+    "name": "Federation of Memes INC.",
+    "address": "",
+    "share": ""
+  },
+  "tags": ["meme"]
+}
